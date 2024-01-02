@@ -3,13 +3,13 @@ PfDA_Project2 - Analysis of Paleo to Present Climate Data
 
 ## Table of Contents
 
-* [Introduction](# Introduction)
-* [How to Run this Project](# How to Run this Project)
-* [Contact Information](# Contact Information)
+* [Introduction](#Introduction)
+* [How to Run this Project](#How)
+* [Contact Information](#Contact)
 
 ## Intoduction
 
-The debate about climate change has been going on for decades with many famous analysis charting world CO2 vs temperature anomalies going back 800,000 years. The first part of this project will be to stitch together data from 800,000 years ago to present. Then data on the concentrations of CH4 will be added to the data analysis to see how its effects had on the climate. This will be further looked at in the context of how it has affected Irelands climate also. 
+The debate about climate change has been going on for decades with many famous analysis charting world CO<sub>2</sub> vs temperature anomalies going back 800,000 years. The first part of this project will be to stitch together data from 800,000 years ago to present. Then data on the concentrations of CH<sub>4</sub> will be added to the data analysis to see how its effects had on the climate. This will be further looked at in the context of how it has affected Irelands climate also. 
 Data for the next few decades will be syntisised under various conditions to predict future temperatures and coclusions drawn on what sort of future we should all expect.
 
 ## How to Run this project
